@@ -5,7 +5,7 @@
 # Derived from https://github.com/jenkinsci/docker
 
 # Start with an awesome, tiny Linux distro.
-FROM jonxly/f5-super-netops-container:base
+FROM f5devcentral/f5-super-netops-container:base
 
 LABEL maintainer "h.patel@f5.com, n.pearce@f5.com"
 
