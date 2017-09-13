@@ -8,7 +8,7 @@ FROM alpine:3.5
 
 LABEL maintainer "h.patel@f5.com, n.pearce@f5.com"
 
-ENV SNOPS_REPO https://github.com/f5devcentral/f5-super-netops-container.git
+ENV SNOPS_REPO https://github.com/jonxly/f5-super-netops-container.git
 
 # Set the SNOPS image name
 ENV SNOPS_IMAGE base
